@@ -1,0 +1,5 @@
+Nome=input("dimmi il tuo nome")
+Cognome=input("dimi il tuo cognome")
+Classe=input("dimmi la classe in cui ti trovi")
+Età=int(input("dimmi la tua età"))
+print(Nome, Cognome, "Sono della",Classe, "e ho", Età )
